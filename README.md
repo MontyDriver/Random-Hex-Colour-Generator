@@ -1,6 +1,6 @@
-# Random-Hex-Colour-Generator
+# 🎨 Random-Hex-Colour-Generator
 
-<h3> A simple website that generates a random hex colour </h3>
+<p> A simple website that generates a random hex colour useful for when you can't decide a colour pallete </p>
 
 <h3> Test it out <a href="https://montydriver.github.io/Random-Hex-Colour-Generator/" target="_blank">live</a> </h3>
 
