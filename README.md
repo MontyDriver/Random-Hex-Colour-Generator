@@ -2,7 +2,7 @@
 
 <h3> A simple website that generates a random hex colour </h3>
 
-<h4> Test it out <a href="url">live</a> </h4>
+<h4> Test it out <a href="https://montydriver.github.io/Random-Hex-Colour-Generator/">live</a> </h4>
 
 ![image](https://user-images.githubusercontent.com/55710230/183639656-eac717f5-f93f-4b8c-98ec-dee06398181f.png)
 
